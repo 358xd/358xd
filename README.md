@@ -18,7 +18,7 @@
 <h2 align="left">GitHub istatistiklerim</h2>
 <p align="left">
   
-![GitHub metrics](https://metrics.lecoq.io/i358?languages=1&gists=1&followup=1)
+![GitHub metrics](https://metrics.lecoq.io/358xd?languages=1&gists=1&followup=1)
   
 ![visits](https://komarev.com/ghpvc/?username=358xd)
 
