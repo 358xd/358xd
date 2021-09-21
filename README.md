@@ -11,7 +11,7 @@
 </p>
 <h3>Hakkımda.</h3>
 <ul>
-  <li>💻 Sadece bir uzaylıyım, taze sıkılmış uzay suyu ister misin ? </li>
+  <li>💻 Merhaba ben Türk genciyim, yaşamıyorum. </li>
 
 </ul>
 
